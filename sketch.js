@@ -34,6 +34,8 @@ function preload(){
   bg5 = loadImage("images/bg5.jpg")
 
   imposter = loadImage("images/imposter.png")
+    nonimposter = loadImage("images/non-imposter.jpg")
+
 }
 
 function setup(){
